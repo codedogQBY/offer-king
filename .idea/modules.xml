@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/offer-king.iml" filepath="$PROJECT_DIR$/.idea/offer-king.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myProject/wechat-platform/.idea/wechat-platform.iml" filepath="$PROJECT_DIR$/../myProject/wechat-platform/.idea/wechat-platform.iml" />
+    </modules>
+  </component>
+</project>
